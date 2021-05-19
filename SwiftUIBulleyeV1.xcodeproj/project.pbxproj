@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		503578A42655893100A19B4D /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 503578A32655893100A19B4D /* AboutView.swift */; };
 		50F3FC6D265100E90019922C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F3FC6C265100E90019922C /* AppDelegate.swift */; };
 		50F3FC6F265100E90019922C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F3FC6E265100E90019922C /* SceneDelegate.swift */; };
 		50F3FC71265100E90019922C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50F3FC70265100E90019922C /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		503578A32655893100A19B4D /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 		50F3FC69265100E90019922C /* SwiftUIBulleyeV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBulleyeV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50F3FC6C265100E90019922C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		50F3FC6E265100E90019922C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				50F3FC6C265100E90019922C /* AppDelegate.swift */,
 				50F3FC6E265100E90019922C /* SceneDelegate.swift */,
 				50F3FC70265100E90019922C /* ContentView.swift */,
+				503578A32655893100A19B4D /* AboutView.swift */,
 				50F3FC72265100EA0019922C /* Assets.xcassets */,
 				50F3FC77265100EA0019922C /* LaunchScreen.storyboard */,
 				50F3FC7A265100EA0019922C /* Info.plist */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				503578A42655893100A19B4D /* AboutView.swift in Sources */,
 				50F3FC6D265100E90019922C /* AppDelegate.swift in Sources */,
 				50F3FC6F265100E90019922C /* SceneDelegate.swift in Sources */,
 				50F3FC71265100E90019922C /* ContentView.swift in Sources */,
